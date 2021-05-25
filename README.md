@@ -9,4 +9,4 @@ Binnenkort meer hier.
 - API credentials
 - Creditcard numbers
 
-Wil je een gesloten omgeving gebruik dan het gratis gitblab.com!
+Wil je een gesloten omgeving gebruik dan het gratis gitlab.com!
