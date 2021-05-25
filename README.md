@@ -4,7 +4,9 @@ Dit is tekst. Bedankt voor het lezen. md == Mark Down file betekent?
 Binnenkort meer hier.
 
 
-# NEVER EVER store in your repo's! It's all public.
+# Sla dit NOOIT op GITHUB op, want iedereen kan het zien.
 - Passwords
 - API credentials
 - Creditcard numbers
+
+Wil je een gesloten omgeving gebruik dan het gratis gitblab.com!
